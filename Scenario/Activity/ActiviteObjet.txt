@@ -1,0 +1,7 @@
+olfa	1000
+ponga	1000
+Alex	1000
+Mathilde	1000
+ralo 	6000
+peno    8000
+

@@ -1,0 +1,5 @@
+cercle		1000
+ponga		1000
+guessa		1000
+ralo		6000
+peno 		8000
